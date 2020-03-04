@@ -1,14 +1,14 @@
-#Take Home Project for The Tyger Protocol
+# Take Home Project for The Tyger Protocol
 
-##How to run the Scripts
+## How to run the Scripts
 
-#Create a Virtual Environment
+# Create a Virtual Environment
 
 ```
 $> virtualenv venv
 ```
 
-#Activate the Virtual Environment
+# Activate the Virtual Environment
 Linux
 ```
 $> source venv/bin/activate
